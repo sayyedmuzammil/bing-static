@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+}
+svg{
+    width: 30px;
+}
+.logo{
+    float: left; font-size: 24px;
+            font-weight: 400;
+            font-family: 'Segoe UI',Helvetica,Arial,sans-serif;
+            white-space: nowrap;
+            color: #0c8484;
+            display: flex;
+            /* justify-content: space-between; */
+            
+}
+.navright{
+    font-size: 16px;
+    /* color: black; */
+}
+
+.navright:hover{
+    color: #0c8484;
+    cursor: pointer;
+}
+.first{
+    
+    /* width:1770px; */
+    /* margin-bottom: 5px;*/
+    font-size: 40px;
+    font-family: inherit;
+    text-shadow: 0 3px 3px black;
+    color: white;
+    font-weight: 0;
+    line-height: .3cm; 
+    
+    
+}
+.background-image{
+    background-image: url('https://www.bingplaces.com/Images/HomePage_MainDiv1.jpg');
+    height: 680px; width: 1600px;float: left;margin-top: 130px;
+
+}
+.main-button{
+    font-size: 20px;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    padding: 0 30px;
+    background-color: #0c8484;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 288px;
+    height: 60px;
+    
+}
+.main-button:hover{
+    background-color: #fd8921;
+    cursor: pointer;
+}
+
+
+.partition-inner1{
+    height: 220px;width: 70px;float: left;
+}
+.circle
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    font-size: 40px;
+    line-height: 70px;
+    font-weight: 700;
+    color: white;
+    background-color: #00b294;
+    box-sizing: border-box;
+    border-spacing: 0;
+    border-collapse: collapse;
+    text-align: center;
+    float: left;
+
+}
+.partition-inner2{
+    height: 220px;width: 1080px;  float: left;
+}
+.partition-heading{
+    font-size: 36px ; width: 700px; ;float: left;padding-left: 20px;margin: 0;
+}
+.partition-inner3{
+    height: 100px; width: 720px;float: left;-top: -300px;padding-left: 20px;
+}
+.partition-paragraph{
+    font-size: 16px;text-align: left;float: left;font-weight: 500;text-align: justify; 
+}
+
+.third-div{
+    margin-top: 0;
+    background-color: #0c8484;
+    color: #fff;
+    font-size: 16px;
+    padding: 40px 0 80px 0;
+    padding-top: 40px;width:100%;height: 560px;float: left;
+}
+.tile{
+    width: 530px; height: 370px; font-size: 20px;margin-top: 18px; font-weight:500;margin-top: 50px;
+}
+
+.coloumn{
+    /* font-size: 18px;color: white; */
+    font-weight: 200;
+    margin-left: 150px;
+    
+}
+.link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+/* .figur{
+    
+    background-image: url('https://www.bingplaces.com/Images/HomePage_MainDiv2.png');
+    background-image: url('https://www.bingplaces.com/Images/HomePage_MainDiv3.png');
+} */
+
+/* #slider{
+    /* z-index: 1; */
+    /* overflow: hidden;
+    width :1770px; */
+    /* background-image:   url('https://www.bingplaces.com/Images/HomePage_MainDiv1.jpg'); */
+    /* transition: ease-out; */
+    /* opacity: 75%; */
+    /* height: 750px; */
+    /* margin-top: 20px; */
+/* } */
+/* #slider figure{
+    position: relative;
+    width: 300%;
+    margin: 0;
+    left: 0;
+    animation: 20s slider infinite;
+}
+#slider figure img{
+    float: left;
+    width: 33%;
+
+}
+@keyframes slider{
+0%{
+    left: 0%;
+}
+33%{
+    left: 0%;
+}
+39%{
+    left: -100%;
+}
+72%{
+    left: -100%;
+}
+77%{
+    left: -200%;
+}
+100%{
+    left: -200%;
+}
+}  */
+
