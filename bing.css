@@ -10,7 +10,6 @@ svg{
     float: left; font-size: 24px;
             font-weight: 400;
             font-family: 'Segoe UI',Helvetica,Arial,sans-serif;
-            white-space: nowrap;
             color: #0c8484;
             display: flex;
         
@@ -71,11 +70,7 @@ svg{
     font-weight: 700;
     color: white;
     background-color: #00b294;
-    box-sizing: border-box;
-    border-spacing: 0;
-    border-collapse: collapse;
     text-align: center;
-    float: left;
 
 }
 .partition-inner2{
